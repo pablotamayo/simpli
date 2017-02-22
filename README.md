@@ -11,6 +11,7 @@ The Simpli package is a Jupyter Notebook extension that makes computational biol
 2. Install bower using NPM:
 ```bash
 npm install -g bower
+pip install jupyter_declarativewidgets
 ```
 
 ### 2. Install Simpli
